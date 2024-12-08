@@ -61,5 +61,3 @@ This project is a Python-based virtual assistant capable of performing a variety
    - "What's the weather in New York?"
    - "Play the song 'Closer'."
    - "Take a screenshot."
-
----
