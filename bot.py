@@ -271,7 +271,7 @@ def TaskExecution():
             sys.exit()
 
 
-if _name_ == "_main_":
+if __name__ == "_main_":
     wish()
     while True:
         TaskExecution()

@@ -39,7 +39,7 @@ This project is a Python-based virtual assistant capable of performing a variety
    ```
 3. Ensure that you have the required applications installed (e.g., Adobe Reader, Notepad).
 
----
+--- 
 
 ## Configuration
 - **Music Paths**: Update the `music_paths` dictionary with the correct paths to your local music files.
