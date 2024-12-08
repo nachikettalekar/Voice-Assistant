@@ -1,16 +1,11 @@
-Python Voice Assistant
 
-A brief description of what this project does and who it's for
+## Python Voice Assistant
+
 A Python voice assistant using `SpeechRecognition` to perform tasks via voice commands. It plays music, searches Wikipedia, provides weather updates, controls apps, takes notes, captures screenshots, and sends WhatsApp messages. Integrated with WolframAlpha, OpenWeatherMap, and PyWhatKit for added functionality.
 
 
 
 ## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
 
 •	Music Playback: Play your favorite songs from local storage or online.
 •	Wikipedia Search: Fetch summarized information directly from Wikipedia.
