@@ -23,7 +23,7 @@ Before running the project, ensure you have the following installed: • Python 
 •	OpenWeatherMap: Sign up at OpenWeatherMap API.
 ## How to Use
 1.	Clone the repository:
-git clone https://github.com/yourusername/python-voice-assistant.git cd python-voice-assistant
+git clone https://github.com/nachikettalekar/Voice-Assistant/blob/main/bot.py
 
 2.	Place your API keys for WolframAlpha and OpenWeatherMap in the appropriate locations in the code.
 3.	Run the assistant:
