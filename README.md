@@ -55,11 +55,3 @@ Here are some example commands the assistant can understand: • Music: “Play 
 ## Contributer
 https://github.com/nehatalekar
 https://github.com/nachikettalekar
-## Contributing
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
-
